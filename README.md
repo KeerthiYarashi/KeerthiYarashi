@@ -43,6 +43,8 @@
 </p>
 
 ---
+## Random Dev Quotes
+
 ![Random Dev Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=compact&font=baloo&quoteCategory=programming)
 
 ## 🤝 Connect with Me  
