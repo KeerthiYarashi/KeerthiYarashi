@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthi Yarashi</h1>
-<h3 align="center">🚀 Passionate CSE Student </h3>
+<h3 align="center">🚀 Passionate TECH Student </h3>
 
 ---
 
