@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthi Yarashi</h1>
-<h3 align="center">🚀 Passionate CSE Student | Developer | Hackathon Enthusiast</h3>
+<h3 align="center">🚀 Passionate CSE Student </h3>
 
 ---
 
@@ -7,9 +7,9 @@
 
 - 💻 1st-year CSE student passionate about coding, problem-solving, and building impactful projects.  
 - 🚀 Skilled in **Python, C++, C, JavaScript, HTML, CSS, Dart**.  
-- 📊 Exploring **DSA, Machine Learning, and IoT**.  
+- 📊 Exploring **DSA, Machine Learning, and App development**.  
 - 🌱 Currently learning **Full-Stack Development and AI/ML**.  
-- ⚡ Love participating in **hackathons** and working on real-world projects.  
+- ⚡ Love in participate in **hackathons**, contributing in open sources and working on real-world projects. 
 - 📌 Open to collaboration and learning opportunities.  
 
 ---
