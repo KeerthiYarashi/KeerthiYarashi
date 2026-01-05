@@ -5,10 +5,10 @@
 
 ## ✨ About Me  
 
-- 💻 1st-year CSE student passionate about coding, problem-solving, and building impactful projects.  
+- 💻 2nd-year CSE student passionate about coding, problem-solving, and building impactful projects.  
 - 🚀 Skilled in **Python, C++, C, JavaScript, HTML, CSS, Dart .  
 - 📊 Exploring **DSA, Machine Learning,   
-- 🌱 Currently learning **Full-Stack Development and AI/ML**.  
+- 🌱 Python  Development  
 - ⚡ Love in participate in **hackathons**, contributing in open sources and working on real-world projects. 
 - 📌 Open to collaboration and learning opportunities.  
 
