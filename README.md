@@ -5,13 +5,12 @@
 
 ## ✨ About Me  
 
-- 💻 2nd-year CSE student passionate about coding, problem-solving, and building impactful projects.  
-- 🚀 Skilled in **Python, C++, C, JavaScript, HTML, CSS, Machine learning model .  
-- 📊 Exploring **DSA, NLP Transformer Model, Finetuning Model, GENAI Application.  
-- 🌱 DSA IN CPP 
-- ⚡ Love in participate in **hackathons**, contributing in open sources and working on real-world projects. 
-- 📌 Open to collaboration and learning opportunities.  
-
+- 💻 2nd-year Computer Science student passionate about software development, machine learning, and problem-solving.
+- 🚀 Skilled in Python, C++, HTML, CSS, JavaScript, Git, GitHub, and FastAPI.
+- 📊 Exploring Data Structures & Algorithms, Machine Learning, NLP, Transformers, and Generative AI.
+- 🌱 Currently practicing DSA in C++ and building real-world backend and ML projects.
+- ⚡ Active participant in hackathons and open-source learning programs.
+- 📌 Open to internships, collaborations, and learning opportunities.
 ---
 
 ## 🛠️ Skills  
@@ -20,7 +19,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
