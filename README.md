@@ -2,7 +2,6 @@
 <h3 align="center">CSE  Student @ Dayananda Sagar College of Engineering | ML Engineer | Backend Developer</h3>
 
 <p align="center">
-  <a href="https://keerthiyarashi.github.io/Keerthi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-61dafb?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/keerthi-yarashi-26ab2b335"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yarashikeerthi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
