@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthi Yarashi</h1>
-<h3 align="center">CSE (Blockchain) Student @ Dayananda Sagar College of Engineering | ML Engineer | Backend Developer</h3>
+<h3 align="center">CSE  Student @ Dayananda Sagar College of Engineering | ML Engineer | Backend Developer</h3>
 
 <p align="center">
   <a href="https://keerthiyarashi.github.io/Keerthi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-61dafb?style=for-the-badge&logo=vercel&logoColor=black" /></a>
@@ -11,13 +11,15 @@
 
 ### 🚀 About Me
 
-- 💻 Second-year **B.E. Computer Science (Blockchain)** student at Dayananda Sagar College of Engineering, Bengaluru — Cumulative SGPA: **9.5/10**
-- 🔐 Building real-world systems at the intersection of **Machine Learning, Backend Engineering, and Cybersecurity**
-- 🛡️ Active member of **Xythera**, my college's CyberSec club, and a regular participant in **hackathons & CTF challenges**
-- 🌱 Currently deepening my skills in **DSA (C++), NLP, Transformers, and Generative AI**
-- ⚡ Exploring embedded systems & IoT with **Arduino Uno, ESP32, and Blynk**
+ 
+- 💻 Second-year Computer Science student passionate about building impactful software and AI-powered applications.
+- 🚀 Skilled in Python, C++, FastAPI, Git, GitHub, HTML, CSS, JavaScript, NumPy, Pandas, Scikit-Learn, and Hugging Face.
+-  🔐 Building real-world systems at the intersection of **Machine Learning, Backend Engineering, and Cybersecurity**
+- 🌱 Currently deepening my skills in Machine Learning, NLP, Transformers, Fine-Tuning, and Generative AI.
+- 🌱 Currently practicing DSA in C++ and building real-world ML and backend projects.
+- ⚡ Active participant in hackathons, open-source programs, and technical communities.
+- 🔬 Interested in Machine Learning Engineering, Backend Development, and AI Systems.
 - 📌 Open to internships, collaborations, and ML/backend opportunities
-
 ---
 
 ### 🛠️ Tech Stack
